@@ -1,0 +1,13 @@
+C:\Repository\MyRepo\BackSac\bin\Debug\BackSac.exe.config
+C:\Repository\MyRepo\BackSac\bin\Debug\BackSac.exe
+C:\Repository\MyRepo\BackSac\bin\Debug\BackSac.pdb
+C:\Repository\MyRepo\BackSac\obj\Debug\BackSac.csproj.AssemblyReference.cache
+C:\Repository\MyRepo\BackSac\obj\Debug\BackSac.Properties.Resources.resources
+C:\Repository\MyRepo\BackSac\obj\Debug\BackSac.csproj.GenerateResource.cache
+C:\Repository\MyRepo\BackSac\obj\Debug\BackSac.csproj.CoreCompileInputs.cache
+C:\Repository\MyRepo\BackSac\obj\Debug\BackSac.exe
+C:\Repository\MyRepo\BackSac\obj\Debug\BackSac.pdb
+C:\Repository\MyRepo\BackSac\obj\Debug\BackSac.Login.resources
+C:\Repository\MyRepo\BackSac\bin\Debug\FontAwesome.Sharp.dll
+C:\Repository\MyRepo\BackSac\bin\Debug\FontAwesome.Sharp.Material.dll
+C:\Repository\MyRepo\BackSac\obj\Debug\BackSac.csproj.CopyComplete
